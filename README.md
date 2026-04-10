@@ -2,7 +2,7 @@
 
 Curso de digitação moderno, gratuito e open source. Roda 100% no browser, sem backend, sem cadastro — é só abrir e começar a praticar.
 
-**Acesse agora:** [pedroharibeiropicpay.github.io/typeflow](https://pedroharibeiropicpay.github.io/typeflow/)
+**Acesse agora:** [pedroharibeiros.github.io/typeflow](https://pedroharibeiros.github.io/typeflow/)
 
 ---
 
